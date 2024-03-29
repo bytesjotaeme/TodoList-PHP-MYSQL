@@ -21,3 +21,5 @@ Este proyecto es una aplicación de lista de tareas desarrollada desde cero util
 2. Importa el archivo de base de datos MySQL proporcionado en tu servidor MySQL.
 3. Configura la conexión a la base de datos en el archivo PHP.
 4. ¡Comienza a usar la aplicación!
+
+![Captura de Pantalla](https://github.com/bytesjotaeme/TodoList-PHP-MYSQL/blob/main/todo-list.PNG)
